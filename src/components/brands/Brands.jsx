@@ -8,7 +8,7 @@ import levis from './../../img/brands/Levis.png'
 import amazon from './../../img/brands/Amazon.png'
 
 const Brands = () => {
-   return ( 
+   return (
       <section className="brands">
          <div className="container">
             <ul className="brands__list">
@@ -23,5 +23,5 @@ const Brands = () => {
       </section>
    );
 }
- 
+
 export default Brands;
